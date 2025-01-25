@@ -8,14 +8,14 @@
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Ashasuma/Advanced-Excel-Project-Data-Analysis-for-AtliQ-Hardware/blob/main/Atliq%20market%20performance%20Vs%20targer%20report.pdf)_
 
 
- -**Finance Report :**
+- **Finance Report:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Yearly](https://github.com/Ashasuma/Advanced-Excel-Project-Data-Analysis-for-AtliQ-Hardware/blob/main/PNL%20Market%20yearly.pdf)
+    **1.** Create a _[P&L Yearly](https://github.com/Ashasuma/Advanced-Excel-Project-Data-Analysis-for-AtliQ-Hardware/blob/main/GM%20quarterly.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Quarterly](https://github.com/Ashasuma/Advanced-Excel-Project-Data-Analysis-for-AtliQ-Hardware/blob/main/GM%20quarterly.pdf)_
+    **2.** Conduct a comprehensive comparison between _[P&L Quarterly](https://github.com/Ashasuma/Advanced-Excel-Project-Data-Analysis-for-AtliQ-Hardware/blob/main/GM%20quarterly.pdf)_
   
-   **3.** Create Profit and Loss (P&L) reports by _[Monthly](https://github.com/Ashasuma/Advanced-Excel-Project-Data-Analysis-for-AtliQ-Hardware/blob/main/PNL%20fiscal%20monthly.pdf)_
-   
+    **3.** Create a _[P&L Monthly](https://github.com/Ashasuma/Advanced-Excel-Project-Data-Analysis-for-AtliQ-Hardware/blob/main/PNL%20fiscal%20monthly.pdf)_ 
+
 
    - **Objective:** To analyze and interpret sales, market performance and profitability data for AtliQ Hardware using Advanced Excel providing actionable insights and detailed business reports to support strategic decision-making.
 
