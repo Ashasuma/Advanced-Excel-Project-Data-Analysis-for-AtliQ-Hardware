@@ -10,7 +10,7 @@
 
  -**Finance Report :**
 
-    **1.** Create Profit and Loss (P&L) reports by _[Yearly](https://github.com/Ashasuma/Advanced-Excel-Project-Data-Analysis-for-AtliQ-Hardware/blob/main/PNL%20Market%20yearly.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Yearly](https://github.com/Ashasuma/Advanced-Excel-Project-Data-Analysis-for-AtliQ-Hardware/blob/main/PNL%20Market%20yearly.pdf)
 
    **2.** Create Profit and Loss (P&L) reports by _[Quarterly](https://github.com/Ashasuma/Advanced-Excel-Project-Data-Analysis-for-AtliQ-Hardware/blob/main/GM%20quarterly.pdf)_
   
